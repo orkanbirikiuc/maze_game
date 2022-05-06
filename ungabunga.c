@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-int difficultyLevel;
+int difficultyLevel, difficultyLevel2;
 int difficultySelectDummy1, difficultySelectDummy2, difficultySelectDummy3 = 0, difficultySelectIndex = 0;
 int difficultyLevel;
 
